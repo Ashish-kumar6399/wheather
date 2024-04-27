@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wheather/static/css/main.a1d924e7.css",
+    "main.js": "/wheather/static/js/main.aad6efad.js",
+    "index.html": "/wheather/index.html",
+    "main.a1d924e7.css.map": "/wheather/static/css/main.a1d924e7.css.map",
+    "main.aad6efad.js.map": "/wheather/static/js/main.aad6efad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d924e7.css",
+    "static/js/main.aad6efad.js"
+  ]
+}
